@@ -6,7 +6,7 @@ layout: default
 
 Hooklys is a webhook proxy service that let you focus on other things!
 
-A cloud based solution that transparently manage infrastructure requirements while offering end-to-end network encryption.
+A cloud based solution that transparently manage infrastructure requirements, offering end-to-end network encryption.
 
 ### References
 
