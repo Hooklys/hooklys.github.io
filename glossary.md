@@ -4,7 +4,7 @@ layout: default
 
 {% include nav.html %}
 
-## Key concepts
+## Glossary
 
 
 ### Organizations
