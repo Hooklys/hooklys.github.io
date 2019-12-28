@@ -12,5 +12,5 @@ A cloud based solution that transparently manage infrastructure requirements, of
 
 - [Getting started](/getting-started)
 - [Glossary](/glossary)
+- [Pricing](/pricing)
 - [Contact Us](/contact-us)
-
