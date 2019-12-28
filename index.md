@@ -10,6 +10,7 @@ A cloud based solution that transparently manage infrastructure requirements, of
 
 ### References
 
-- [Getting started](/getting_started)
+- [Getting started](/getting-started)
 - [Glossary](/glossary)
+- [Contact Us](/contact-us)
 
